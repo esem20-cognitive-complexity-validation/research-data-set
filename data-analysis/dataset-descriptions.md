@@ -21,7 +21,7 @@
 - Demographic:
   - 41 second-year students from a software-engineering course
 - Pilot study for Dataset 2 (A look into programmer's heads)
-- [Link to Dataset](tinyurl.com/ProgramComprehensionAndfMRI/)
+- [Link to Dataset](https://tinyurl.com/ProgramComprehensionAndfMRI/)
 
 ### Code
 - Programming Language:
@@ -48,7 +48,7 @@
   - "... we force participants to use **bottom-up comprehension**, which means that participants analyze source code statement by statement to determine a program's purpose."
 - Demographic:
   - 17 computer-science and mathematics students, undergraduate level of programming and Java experience.
-- [Link to Dataset](tinyurl.com/ProgramComprehensionAndfMRI/)
+- [Link to Dataset](https://tinyurl.com/ProgramComprehensionAndfMRI/)
 
 ### Code
 - Programming Language:
